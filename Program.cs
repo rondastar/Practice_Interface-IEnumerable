@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// Ronda Rutherford
+// Practice - Interfaces and IEnumerable : Displaying Data
+// June 16, 2023
 namespace Practice_Interface_IEnumerable
 {
     internal class Program
